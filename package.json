@@ -1,0 +1,7 @@
+{
+  "name": "postgresql-sql-to-binary-dump-converter-script",
+  "version": "0.0.1",
+  "dependencies": {
+    "shelljs": "^0.7.7"
+  }
+}
